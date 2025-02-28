@@ -1,0 +1,12 @@
+# Requirements for Indian Election Data Analysis
+
+# Core Libraries
+pandas  # Data manipulation and analysis
+numpy   # Numerical computations
+
+# Visualization Libraries
+matplotlib  # Plotting and visualization
+seaborn  # Statistical data visualization
+
+# Jupyter Notebook
+jupyter  # Interactive computing environment
